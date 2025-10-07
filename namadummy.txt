@@ -1,0 +1,204 @@
+{
+  "data": [
+    {
+      "nis": "20050123",
+      "nama": "Andhika Pratama",
+      "tanggal_lahir": "15-05-2005"
+    },
+    {
+      "nis": "20060456",
+      "nama": "Siti Aisyah Fauziah",
+      "tanggal_lahir": "21-11-2006"
+    },
+    {
+      "nis": "20050789",
+      "nama": "Kevin Wijaya",
+      "tanggal_lahir": "03-09-2005"
+    },
+    {
+      "nis": "20061011",
+      "nama": "Rizky Ramadan",
+      "tanggal_lahir": "12-07-2006"
+    },
+    {
+      "nis": "20051213",
+      "nama": "Nadya Putri",
+      "tanggal_lahir": "09-02-2005"
+    },
+    {
+      "nis": "20061415",
+      "nama": "Muhammad Fatih",
+      "tanggal_lahir": "28-08-2006"
+    },
+    {
+      "nis": "20051617",
+      "nama": "Aurelia Sanjaya",
+      "tanggal_lahir": "19-10-2005"
+    },
+    {
+      "nis": "20061819",
+      "nama": "Budi Santoso",
+      "tanggal_lahir": "05-04-2006"
+    },
+    {
+      "nis": "20052021",
+      "nama": "Laras Anindita",
+      "tanggal_lahir": "24-03-2005"
+    },
+    {
+      "nis": "20062223",
+      "nama": "Ahmad Subagja",
+      "tanggal_lahir": "16-01-2006"
+    },
+    {
+      "nis": "20052425",
+      "nama": "Bayu Aditama",
+      "tanggal_lahir": "01-12-2005"
+    },
+    {
+      "nis": "20062627",
+      "nama": "Intan Permata Sari",
+      "tanggal_lahir": "14-06-2006"
+    },
+    {
+      "nis": "20052829",
+      "nama": "Fajar Hidayat",
+      "tanggal_lahir": "07-07-2005"
+    },
+    {
+      "nis": "20063031",
+      "nama": "Dwi Lestari",
+      "tanggal_lahir": "10-09-2006"
+    },
+    {
+      "nis": "20053233",
+      "nama": "Arifin Zain",
+      "tanggal_lahir": "22-04-2005"
+    },
+    {
+      "nis": "20063435",
+      "nama": "Sarah Agustina",
+      "tanggal_lahir": "04-11-2006"
+    },
+    {
+      "nis": "20053637",
+      "nama": "Candra Kirana",
+      "tanggal_lahir": "17-08-2005"
+    },
+    {
+      "nis": "20063839",
+      "nama": "Yusuf Maulana",
+      "tanggal_lahir": "30-10-2006"
+    },
+    {
+      "nis": "20054041",
+      "nama": "Maya Damayanti",
+      "tanggal_lahir": "11-03-2005"
+    },
+    {
+      "nis": "20064243",
+      "nama": "Raka Pranata",
+      "tanggal_lahir": "08-01-2006"
+    },
+    {
+      "nis": "20054445",
+      "nama": "Fitriani Halimah",
+      "tanggal_lahir": "25-05-2005"
+    },
+    {
+      "nis": "20064647",
+      "nama": "Wahyu Nugroho",
+      "tanggal_lahir": "29-07-2006"
+    },
+    {
+      "nis": "20054849",
+      "nama": "Ayu Wulandari",
+      "tanggal_lahir": "18-09-2005"
+    },
+    {
+      "nis": "20065051",
+      "nama": "Dedi Permana",
+      "tanggal_lahir": "06-02-2006"
+    },
+    {
+      "nis": "20055253",
+      "nama": "Hana Safitri",
+      "tanggal_lahir": "13-06-2005"
+    },
+    {
+      "nis": "20065455",
+      "nama": "Wawan Gunawan",
+      "tanggal_lahir": "27-04-2006"
+    },
+    {
+      "nis": "20055657",
+      "nama": "Dilan Pratama",
+      "tanggal_lahir": "20-03-2005"
+    },
+    {
+      "nis": "20065859",
+      "nama": "Miftah Fajar",
+      "tanggal_lahir": "02-12-2006"
+    },
+    {
+      "nis": "20056061",
+      "nama": "Annisa Salsabila",
+      "tanggal_lahir": "26-08-2005"
+    },
+    {
+      "nis": "20066263",
+      "nama": "Fahri Maulana",
+      "tanggal_lahir": "23-01-2006"
+    },
+    {
+      "nis": "20056465",
+      "nama": "Taufik Hidayat",
+      "tanggal_lahir": "10-07-2005"
+    },
+    {
+      "nis": "20066667",
+      "nama": "Lia Ramadhani",
+      "tanggal_lahir": "15-05-2006"
+    },
+    {
+      "nis": "20056869",
+      "nama": "Rio Sanjaya",
+      "tanggal_lahir": "08-11-2005"
+    },
+    {
+      "nis": "20067071",
+      "nama": "Fatimah Azzahra",
+      "tanggal_lahir": "01-09-2006"
+    },
+    {
+      "nis": "20057273",
+      "nama": "Bagus Prakoso",
+      "tanggal_lahir": "19-04-2005"
+    },
+    {
+      "nis": "20067475",
+      "nama": "Rina Mariana",
+      "tanggal_lahir": "24-02-2006"
+    },
+    {
+      "nis": "20057677",
+      "nama": "Yuni Kartika",
+      "tanggal_lahir": "28-06-2005"
+    },
+    {
+      "nis": "20067879",
+      "nama": "Agung Nugroho",
+      "tanggal_lahir": "05-08-2006"
+    },
+    {
+      "nis": "20058081",
+      "nama": "Siti Fauziah",
+      "tanggal_lahir": "16-12-2005"
+    },
+    {
+      "nis": "20068283",
+      "nama": "Ade Sugianto",
+      "tanggal_lahir": "22-03-2006"
+    }
+  ]
+}        

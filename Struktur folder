@@ -1,0 +1,22 @@
+rontend/
+├── node_modules/ ADA 
+├── public/
+│   ├── index.html ADA 
+│   └── manifest.json  (untuk PWA) ADA
+├── src/
+│   ├    
+│   ├── components/
+│   │   ├── ProtectedRoute.jsx
+│   │ 
+│   ├── pages/
+│   │   ├── AttendancePage.jsx
+│   │   └── ProfilePage.jsx
+│   ├── services/
+│   │   └── api.js
+│   ├── utils/
+│   │   └── helpers.js
+│   ├── App.jsx
+│   └── index.js
+├── package.json
+├── package-lock.json
+└── .gitignore
